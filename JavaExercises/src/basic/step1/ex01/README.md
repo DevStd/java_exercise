@@ -19,3 +19,5 @@ Sum : 8
 Sum : 98
 ```
 
+### 3. 구현
+* `Main.java`의 `findSum` 함수 안에 작성

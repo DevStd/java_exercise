@@ -11,6 +11,7 @@
 * [[Ex07] 사각형 1](src/basic/step1/ex07)
 * [[Ex08] 삼각형 5](src/basic/step1/ex08)
 * [[Ex09] 사각형 2](src/basic/step1/ex09)
+* [[Ex10] 표 그리기](src/basic/step1/ex10)
 
 ### Step 2
 **배열을 다루는 연습을 한다**
